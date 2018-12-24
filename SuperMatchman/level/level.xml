@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level name="level1">
+		<scene width="60" height="25">
+			<row>############################################################</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                               ^                          #</row>
+			<row>#                               #                          #</row>
+			<row>#                               #                          #</row>
+			<row>#                               #                          #</row>
+			<row>#                              ###               | * #######</row>
+			<row>#                               v                | |       #</row>
+			<row>#                                                | |  S    #</row>
+			<row>#                                                | |       #</row>
+			<row>#   M              ^            #                | |       #</row>
+			<row>#      #          ^#^      ###########         ^^* |       #</row>
+			<row>############################################################</row>
+		</scene>
+		<objects>
+			<obj type="gear" x="51" y="23" x1="51" y1="23" x2="51" y2="18" v="4"/>
+			<obj type="gear" x="52" y="18" x1="52" y1="18" x2="52" y2="23" v="4"/>
+		</objects>
+	</level>
+
+	<level name="level2">
+		<scene width="60" height="25">
+			<row>############################################################</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                        ^                                 #</row>
+			<row>#     M                 ##                                 #</row>
+			<row>#                      ###                                 #</row>
+			<row>#                     ####                                 #</row>
+			<row>#                                                          #</row>
+			<row>##########################                                 #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                      ^        ^                          #</row>
+			<row>#                      #        #                          #</row>
+			<row>#                                                          #</row>
+			<row>#       &lt;###################################################</row>
+			<row>#                              ###                      S  #</row>
+			<row>#                              ###                   #######</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                  ^            ^                #         #</row>
+			<row>#      ^           #       ^^  ^#                          #</row>
+			<row>#      #        ^    ^^   ^###########                #    #</row>
+			<row>############################################################</row>
+		</scene>
+		<objects>
+			<obj type="gear" x="1" y="15" x1="1" y1="15" x2="58" y2="15" v="10"/>
+			<obj type="gear" x="20" y="15" x1="1" y1="15" x2="58" y2="15" v="10"/>
+			<obj type="gear" x="40" y="15" x1="1" y1="15" x2="58" y2="15" v="10"/>
+			<obj type="gear" x="33" y="22" x1="33" y1="22" x2="58" y2="22" v="10"/>
+		</objects>
+	</level>
+
+	<level name="level3">
+		<scene width="60" height="25">
+			<row>############################################################</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                               ^                          #</row>
+			<row>#                              ###               | * #######</row>
+			<row>#                                                | |       #</row>
+			<row>#                                                | |  S    #</row>
+			<row>#      #                                         | |       #</row>
+			<row>#      #           #            #                | |       #</row>
+			<row>#  M   #          ###      ###########           * |       #</row>
+			<row>############################################################</row>
+		</scene>
+		<objects>
+			<obj type="gear" x="1" y="22" x1="1" y1="22" x2="6" y2="22" v="4"/>
+			<obj type="gear" x="1" y="21" x1="1" y1="21" x2="6" y2="21" v="4"/>
+		</objects>
+	</level>
+
+	<level name="level4">
+		<scene width="60" height="25">
+			<row>############################################################</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                                                          #</row>
+			<row>#                               ^                          #</row>
+			<row>#                              ###               | * #######</row>
+			<row>#                                                | |       #</row>
+			<row>#                                                | |  S    #</row>
+			<row>#                                          M     | |       #</row>
+			<row>#                  #            #                | |       #</row>
+			<row>#      #          ###      ###########           * |       #</row>
+			<row>############################################################</row>
+		</scene>
+		<objects>
+			<obj type="gear" x="50" y="23" x1="50" y1="23" x2="50" y2="18" v="4"/>
+			<obj type="gear" x="52" y="18" x1="52" y1="18" x2="52" y2="23" v="4"/>
+		</objects>
+	</level>
+</levels>
