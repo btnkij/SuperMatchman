@@ -262,6 +262,7 @@ public class Canvas extends JPanel implements Runnable {
 					if(rhs1 instanceof Brick)
 						keepOut(mario,rhs1,dir[k][2]);
 					mario.onCollide(rhs1, dir[k][2]);
+					//there is a bug that walls at directions numbered 4 and 6 will be misrecognised as ground
 				}
 			}
 		}

@@ -177,6 +177,8 @@ public final class Mario extends Spirit implements KeyListener {
 			}
 			else
 			{
+				//there is a bug that walls at directions numbered 4 and 6 will be misrecognised as ground
+				//see also Canvas.java CollisionTest()
 				jump=0;
 				velocity.y=0;
 				onGround=true;
